@@ -1,0 +1,33 @@
+{"sessions": [
+    {
+        "dateTime": "2026-02-26T20:00",
+        "exercises": [
+            {
+                "reps": 8,
+                "sets": 3,
+                "name": "Bench Press",
+                "weight": 135,
+                "time": 20
+            },
+            {
+                "reps": 10,
+                "sets": 3,
+                "name": "Row",
+                "weight": 95,
+                "time": 15
+            }
+        ],
+        "sessionId": 10
+    },
+    {
+        "dateTime": "2026-02-27T18:30",
+        "exercises": [{
+            "reps": 5,
+            "sets": 5,
+            "name": "Squat",
+            "weight": 185,
+            "time": 25
+        }],
+        "sessionId": 11
+    }
+]}
